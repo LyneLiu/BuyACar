@@ -11,7 +11,7 @@ import javax.persistence.OneToMany;
 import org.springframework.context.annotation.Scope;
 import org.springframework.context.annotation.ScopedProxyMode;
 import org.springframework.stereotype.Component;
-import org.springframework.ui.Model;
+import br.com.avelar.bac.model.Model;
 import org.springframework.web.context.WebApplicationContext;
 
 import com.fasterxml.jackson.annotation.JsonBackReference;
